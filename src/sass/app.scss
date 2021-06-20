@@ -1,0 +1,14 @@
+// setup
+@use 'general/setup';
+
+// modules
+@use 'modules/profile';
+@use 'modules/medias_sociais';
+@use 'modules/footer';
+
+// components
+@use 'components/email-modal';
+@use "components/copy_popup";
+
+// general styles
+@use "general/animations";
