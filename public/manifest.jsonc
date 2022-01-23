@@ -1,0 +1,27 @@
+{
+	"name": "Link Free",
+	"short_name": "Link Free",
+	"theme_color": "#22212C",
+	"background_color": "#22212c",
+		// "icons": [
+		// 	{
+		// 		"src": "favicon.ico",
+		// 		"sizes": "64x64 32x32 24x24 16x16",
+		// 		"type": "image/x-icon"
+		// 	},
+		// 	{
+		// 		"src": "logo192.png",
+		// 		"type": "image/png",
+		// 		"sizes": "192x192"
+		// 	},
+		// 	{
+		// 		"src": "logo512.png",
+		// 		"type": "image/png",
+		// 		"sizes": "512x512"
+		// 	}
+		// ],
+	"display": "standalone",
+	"orientation": "portrait",
+	"scope": "/",
+	"start_url": "/"
+}

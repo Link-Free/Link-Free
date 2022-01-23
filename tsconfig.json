@@ -22,5 +22,9 @@
   },
   "include": [
     "src"
+  ],
+  "files": [
+    "src/@types/generalTypes.d.ts",
+    "src/@types/styledTypes.d.ts",
   ]
 }

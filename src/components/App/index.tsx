@@ -1,9 +1,12 @@
-import GlobalStyle from '../../styles/Global';
+import LinksGrid from "../LinksGrid";
+import ProfileView from "../ProfileView";
 
 function App() {
+
   return (
     <div className="App">
-      <GlobalStyle />
+      <ProfileView />
+      <LinksGrid />
     </div>
   );
 }
