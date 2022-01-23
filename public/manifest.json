@@ -1,0 +1,10 @@
+{
+	"name": "Link Free",
+	"short_name": "Link Free",
+	"theme_color": "#22212C",
+	"background_color": "#22212c",
+	"display": "standalone",
+	"orientation": "portrait",
+	"scope": "/",
+	"start_url": "/"
+}
